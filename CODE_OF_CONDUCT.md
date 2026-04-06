@@ -1,22 +1,19 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 We pledge to make participation in our community a harassment-free experience.
 
 ## Our Standards
-We expect participants to follow the Code of Conduct.
+Be respectful, courteous, and collaborative.
 
 ## Enforcement Responsibilities
-Community leaders are responsible for enforcing the Code.
+Community leaders are responsible for enforcing the Code of Conduct.
 
 ## Scope
-This Code of Conduct applies within all project spaces.
-
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project leaders.
+Applies to all project spaces and communication channels.
 
 ## Enforcement Guidelines
-Project leaders will determine appropriate consequences.
+Reports of violations will be addressed promptly and fairly.
 
 ## Attribution
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
+This Code of Conduct is adapted from the Contributor Covenant.

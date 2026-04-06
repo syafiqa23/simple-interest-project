@@ -1,8 +1,12 @@
-# Simple Interest Calculator - PowerShell
+# Simple Interest Calculator in PowerShell
+Write-Host "Enter principal amount: "
+$P = Read-Host
+Write-Host "Enter annual interest rate (in %): "
+$R = Read-Host
+Write-Host "Enter time period (in years): "
+$T = Read-Host
 
-$P = [double](Read-Host "Enter principal amount")
-$R = [double](Read-Host "Enter annual interest rate (in %)")
-$T = [double](Read-Host "Enter time period (in years)")
-
+# Calculate simple interest
 $SI = [math]::Round(($P * $R * $T / 100), 2)
-Write-Output "Simple Interest = $SI"
+
+Write-Host "Simple Interest = $SI"
